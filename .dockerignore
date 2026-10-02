@@ -1,0 +1,15 @@
+.git
+.github
+__pycache__
+*.pyc
+.venv
+venv
+store.db
+*.db-journal
+tests
+test_logic.py
+alpha_test_run.log
+.pytest_cache
+.DS_Store
+.vscode
+.idea

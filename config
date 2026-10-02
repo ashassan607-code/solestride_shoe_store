@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = dev@example.com
+	name = Coursework Dev
+[remote "origin"]
+	url = https://github.com/ashassan607-code/e-commerece_mvp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

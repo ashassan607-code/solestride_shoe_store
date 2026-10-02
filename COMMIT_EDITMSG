@@ -1,0 +1,7 @@
+Rebrand to SoleStep shoe store
+
+- Added SoleStep logo (full wordmark + icon) under assets/
+- Seed data now a 6-item shoe catalog (Leather Oxford Shoes seeded low-stock)
+- UI headers/branding updated across login, home, and seller dashboard
+- Tests updated to reference the new shoe catalog; all 29 still pass
+- Dockerfile/DEPLOYMENT.md/CI updated with SoleStep naming
